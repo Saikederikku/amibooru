@@ -1,7 +1,7 @@
 <?php
 
-$config["title"] = "Xenooru";
-$config["slogan"] = "Booru made simple";
+$config["title"] = "Amibooru";
+$config["slogan"] = "Anime art booru";
 $config["logo"] = "logo.png";
 $config["chibi"] = "chibi.png";
 $config["logs"] = true; // Keep logs of actions?
